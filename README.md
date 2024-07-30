@@ -44,10 +44,10 @@ I'm @FarhanAlam-964, a web development enthusiast currently learning the ins and
 
 * GitHub: @FarhanAlam-964
 
-**Stay Tuned**
-
-Keep an eye on this README for updates on my progress, tips, and resources I come across during my web development journey. Let's connect and learn together!
-
 **Skills**
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,django,flask,sqlite)](https://skillicons.dev)
+
+**Stay Tuned**
+
+Keep an eye on this README for updates on my progress, tips, and resources I come across during my web development journey. Let's connect and learn together!
