@@ -47,3 +47,5 @@ I'm @FarhanAlam-964, a web development enthusiast currently learning the ins and
 **Stay Tuned**
 
 Keep an eye on this README for updates on my progress, tips, and resources I come across during my web development journey. Let's connect and learn together!
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
