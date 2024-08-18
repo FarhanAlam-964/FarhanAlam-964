@@ -46,7 +46,7 @@ I'm @FarhanAlam-964, a web development enthusiast currently learning the ins and
 
 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,django,flask,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,django,flask,mysql)](https://skillicons.dev)
 
 **Stay Tuned**
 
