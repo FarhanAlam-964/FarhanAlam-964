@@ -37,7 +37,7 @@ I'm @FarhanAlam-964, a web development enthusiast currently learning the ins and
 **Resources**
 
 * Books: "Eloquent JavaScript" by Marijn Haverbeke, "React: Up & Running" by Stoyan Stefanov and Kirupa Chinnathambi
-* Online Courses: FreeCodeCamp, Codecademy
+* Online Courses: FreeCodeCamp, Codecademy, CS50x : Introduction to Computer Science
 * Blogs: Smashing Magazine, FreeCodeCamp News
 
 **Contact Me**
